@@ -9,7 +9,7 @@ Editor} from './Pages'
 
 function App() {
 
-  const activeMenu = false;
+  const activeMenu = true;
 
   return (
    <div>
